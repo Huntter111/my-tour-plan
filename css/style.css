@@ -504,6 +504,10 @@ template {
   color: inherit;
 }
 
+.swiper {
+  margin-left: 0;
+}
+
 .hotel {
   padding-top: 23px;
   padding-bottom: 70px;
@@ -1032,7 +1036,7 @@ template {
   .container {
     max-width: 960px;
   }
-  .slider {
+  .hotel-slider {
     width: 590px;
   }
   .hotel-slider__image {
