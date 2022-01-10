@@ -20,4 +20,6 @@ const reviewsSlider = new Swiper('.reviews-slider', {
     prevEl: '.reviews-slider__button--prev',
   },
 });
+// parallax стиль для newsletter
+$('.newsletter').parallax({imageSrc: '../img/newsletter-bg.jpg'});
 
